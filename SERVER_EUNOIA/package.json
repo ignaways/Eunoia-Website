@@ -1,0 +1,11 @@
+{
+  "name": "server_eunoia",
+  "version": "1.0.0",
+  "description": "server for website eunoia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ignaway",
+  "license": "ISC"
+}
